@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Obsidian 작업공간 캐시 (혹시 하위에 생길 경우 대비)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
